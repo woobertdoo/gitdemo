@@ -1,5 +1,7 @@
 Employee Management System
 
+Project Status: Testing in Progress
+
 Developed by TechNova Solutions.
 
 Modules:
