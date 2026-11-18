@@ -1,6 +1,6 @@
 Employee Management System
 
-Project Status: Testing in Progress
+Project Status: Testing in Progress -Development Completed
 
 Developed by TechNova Solutions.
 
